@@ -3,4 +3,4 @@
 ################################################################################
 
 *.vs
-/.vs/DemoApplication/v15/Server/sqlite3
+\.vs\DemoApplication\v15\Server\sqlite3
