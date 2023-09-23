@@ -4,3 +4,10 @@ C:\Users\Balaj\source\repos\DemoApplication\DemoApplication\bin\Debug\DemoApplic
 C:\Users\Balaj\source\repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.csproj.CoreCompileInputs.cache
 C:\Users\Balaj\source\repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.exe
 C:\Users\Balaj\source\repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.pdb
+C:\Users\Balaj\source\repos\SampleHelloworld\DemoApplication\bin\Debug\DemoApplication.exe.config
+C:\Users\Balaj\source\repos\SampleHelloworld\DemoApplication\bin\Debug\DemoApplication.exe
+C:\Users\Balaj\source\repos\SampleHelloworld\DemoApplication\bin\Debug\DemoApplication.pdb
+C:\Users\Balaj\source\repos\SampleHelloworld\DemoApplication\obj\Debug\DemoApplication.csprojAssemblyReference.cache
+C:\Users\Balaj\source\repos\SampleHelloworld\DemoApplication\obj\Debug\DemoApplication.csproj.CoreCompileInputs.cache
+C:\Users\Balaj\source\repos\SampleHelloworld\DemoApplication\obj\Debug\DemoApplication.exe
+C:\Users\Balaj\source\repos\SampleHelloworld\DemoApplication\obj\Debug\DemoApplication.pdb
