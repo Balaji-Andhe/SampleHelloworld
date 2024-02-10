@@ -11,6 +11,8 @@ namespace DemoApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World balaji welcome to git re sample");
+
+            Console.WriteLine("Hello World balaji welcome to git re sample");
             Console.ReadLine();
         }
     }
